@@ -10,6 +10,10 @@
 	margin-right: 10px;
 }
 
+.logo {
+	
+}
+
 .tabel2 {
 	width: 100%;
 	display: table;
@@ -243,7 +247,8 @@ select {
 }
 
 .blue-button:hover {
-	
+	background-color: white;
+	color: black;
 }
 
 
