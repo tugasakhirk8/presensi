@@ -1,5 +1,7 @@
-.isi {
-	background-color: rgb(207, 249, 255);
+body {
+	background-image: url("/Tugas Akhir/img/8.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .tabel {
@@ -11,7 +13,7 @@
 }
 
 .logo {
-	
+	opacity: 0.4;
 }
 
 .tabel2 {
@@ -227,7 +229,6 @@ select {
 	padding: 10px;
 	background-color: rgb(244, 244, 244);
 	color: black;
-	border-radius: 20px;
 }
 
 .white-bg {
