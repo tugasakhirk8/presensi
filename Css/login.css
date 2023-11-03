@@ -11,7 +11,7 @@ body {
 	border-color: rgb(51, 51, 51);
 	border: 3px solid rgb(51, 51, 51);
 	border-radius: 20px 20px 25px 25px;
-	margin-right: 10px;
+	margin-top: 40px;
 }
 
 .logo {
@@ -241,13 +241,14 @@ select {
 }
 
 .btn1 { 
-	background-color: rgb(244, 244, 244); 
+	background-color: rgb(244, 244, 244);
+	margin-top: 20px;
  }
 
  .btn {
  	background-color: rgb(244, 244, 244);
  	padding: 10px;
- 	height: 150px;
+ 	height: 20px;
 }
 
 .blue-button:hover {
