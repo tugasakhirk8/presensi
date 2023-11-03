@@ -184,7 +184,7 @@ h2 {
 }
 
 .menu-nohover.low {
-	background-color: rgb(146, 0, 22);
+	background-color: rgb(17, 0, 78);
 	padding: 8px;
 	font-family: arial;
 }
@@ -249,7 +249,7 @@ select {
 }
 
 .blue-button:hover {
-	background-color: white;
+	background-color: rgb(217, 237, 247);
 	color: black;
 }
 
