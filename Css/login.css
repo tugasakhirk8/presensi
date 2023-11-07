@@ -255,5 +255,15 @@ select {
 	color: black;
 }
 
+.profile {
+	text-align: center;
+}
 
+.card-image-top {
+    display: block;
+    margin: 0 auto;
+}
 
+.sidebar-text-start {
+	width: 100px;
+}
