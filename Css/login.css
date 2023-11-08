@@ -252,11 +252,8 @@ select {
 	border-radius: 0px 0px 20px 20px;
  }
 
- .btn {
- 	background-color: rgb(244, 244, 244);
- 	padding: 10px;
- 	height: 20px;
-}
+ 
+
 
 .blue-button:hover {
 	background-color: rgb(217, 237, 247);
@@ -274,4 +271,9 @@ select {
 
 .sidebar-text-start {
 	width: 100px;
+}
+
+.btnadmin {
+	width: 100px;
+	height: px;
 }
