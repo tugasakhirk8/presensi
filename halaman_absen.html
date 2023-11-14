@@ -67,26 +67,7 @@
       </div>
     </div>
 
-    <script>
-      // Mendapatkan elemen radio button
-      var options = document.getElementsByName("option");
-
-      // Mendapatkan elemen input file
-      var fileInput = document.getElementById("fileInput");
-
-      // Mendengarkan perubahan pada radio button
-      for (var i = 0; i < options.length; i++) {
-        options[i].addEventListener("change", function () {
-          if (this.value === "option1") {
-            // Jika radio button pertama dipilih, sembunyikan input file
-            fileInput.style.display = "none";
-          } else {
-            // Jika radio button lainnya dipilih, tampilkan input file
-            fileInput.style.display = "block";
-          }
-        });
-      }
-    </script>
+    
 
     <!--body-->
     <!-- Optional JavaScript; choose one of the two! -->
